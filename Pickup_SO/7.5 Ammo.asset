@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e523d91c7e211d5ae9df15fbf4d90b, type: 3}
+  m_Name: 7.5 Ammo
+  m_EditorClassIdentifier: 
+  ItemName: 7.5 Ammo
+  Tag: 7.5 Ammo
+  Icon: {fileID: 0}
+  IsUsable: 1
+  CanDrop: 1
+  CanAddable: 1
+  CurrentAmount: 30
+  MaxStack: 90
+  OccupieSpace: 0.4
+  OnTimePick: 0
